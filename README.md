@@ -4,6 +4,8 @@
 
 A great explaination of Async:  https://stackabuse.com/python-async-await-tutorial/
 
+
+
 A great explaination of await: https://www.aeracode.org/2018/02/19/python-async-simplified/
 
 "In the asynchronous world, things change around a bit. Everything runs on a central event loop, which is a bit of core code that lets you run several coroutines at once. Coroutines run synchronously until they hit an await and then they pause, give up control to the event loop, and something else can happen.
